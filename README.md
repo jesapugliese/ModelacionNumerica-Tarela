@@ -4,7 +4,7 @@ Material de la materia Modelación Numérica, cursada en el primer cuatrimestre 
 
 ## Contenido
 
-- Resumen teórico con los temas principales vistos en la cursada
+- [Resumen teórico](https://drive.google.com/file/d/1EJK6ScpGtOH1frAs_pOAcU5fF7fuSPzi/view?usp=drive_link) con los temas principales vistos en la cursada
 - Trabajo práctico (nota: 10)
 - Enunciados y resoluciones de parciales y finales
 
